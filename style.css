@@ -29,7 +29,7 @@ p {
 header li {
     border: solid black 4px;
     display: inline;
-    margin: 4em;
+    margin: 1px;
     padding: .09em;
     background-color: ghostwhite;
 }
