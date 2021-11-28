@@ -1,0 +1,40 @@
+body {
+    background-color: aquamarine;
+}
+Header, footer {
+    background-color: darkcyan;
+    padding: 8px;
+}
+h1 {
+    font-size: 80px;
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 7rem;
+}
+footer p {
+    text-align: left;
+    font-size: 13px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+header li {
+    border: solid black 4px;
+    display: inline;
+    margin: 4em;
+    padding: .09em;
+    background-color: ghostwhite;
+}
+
+header ul {
+    text-align: center;
+
+}
