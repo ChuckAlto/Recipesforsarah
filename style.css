@@ -38,3 +38,9 @@ header ul {
     text-align: center;
 
 }
+#deal-score p {
+    color: white;
+    font-size: larger;
+    text-align: left;
+    margin-left: 14.4em;
+}
